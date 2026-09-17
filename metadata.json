@@ -1,0 +1,6 @@
+{
+  "name": "E-Surat SMPN 14 Tulang Bawang Barat",
+  "description": "Sistem Informasi Manajemen Persuratan dan Administrasi Surat Masuk & Keluar Digital SMPN 14 Tulang Bawang Barat",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
